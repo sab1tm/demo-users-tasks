@@ -5,8 +5,8 @@ app:
 spring:
   datasource:
     url: jdbc:postgresql://localhost/waviot_tasks
-    username:
-    password:
+    username: postgres
+    password: 123456zZ
   jpa:
     hibernate:
       ddl-auto: update
