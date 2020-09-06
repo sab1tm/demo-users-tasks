@@ -59,7 +59,7 @@ User {
 ```
 **Структура объекта Task**
 ```
-TaskEntity {
+Task {
     id	            long
     name            string
     description     string
